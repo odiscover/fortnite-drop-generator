@@ -1,0 +1,66 @@
+#desc{
+  top:50%;
+  right:10%;
+  position: absolute;
+  width:30%;
+  color:white;
+  color:white;
+}
+p{
+  color:white;
+}
+
+
+
+#main{
+  /*background-color: black;*/
+  height:100vh;
+  background-image: url('../img/fn_watertile.PNG');
+
+}
+
+#map{
+  height:100vh;
+}
+
+#ex1Slider .slider-selection {
+	background: #BABABA;
+}
+
+
+
+img{
+  visibility: hidden;
+  position:absolute;
+  top: 0px;
+  left:0px;
+  z-index:1;
+
+}
+body{
+  text-align: center;
+  /*background: #f2f6f8;*/
+}
+
+#canvas{
+    position:absolute;
+    z-index:20;
+    top:0px;
+    left:0px;
+}
+#backgroundCanvas{
+  position:absolute;
+  z-index:15;
+  top:0px;
+  left:0px;
+}
+#menu{
+  top:10%;
+  right:20%;
+  width:10%;
+  position: absolute;
+}
+
+label{
+  color: white;
+}
